@@ -52,8 +52,7 @@ What began as flickering lights and icy drafts has now escalated into **full-blo
 - MongoDB Compass installed
   
 ## Getting Started for Admin
-- Load phantom datasets from this [folder](https://drive.google.com/drive/folders/14ayQBGqtL7VM6Eg5fejNtuYuySf5NjEP) to any database of your choice
-- Share credentials for running aggregation pipelines via Compass
+- Steps mentioned in this [folder](https://drive.google.com/drive/folders/14ayQBGqtL7VM6Eg5fejNtuYuySf5NjEP)
 
 ## Getting Started for Participants
 - Clone repository
