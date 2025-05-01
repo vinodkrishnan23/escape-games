@@ -1,5 +1,4 @@
 __pycache__/
-data
 phantom/.streamlit/secrets.toml
 requirement.txt_bkp
 ../.DS_Store
