@@ -66,7 +66,7 @@ cd Escape-Games/phantom
 python3 -m pip install -r requirement.txt
 ```
 - Ask Admin for your mongodb atlas connection string and dbname with pre-loaded data
-- Modify .secrets.toml file within .streamlit folder with above details
+- Modify/Create .secrets.toml file within .streamlit folder with above details
 ```
 MONGODB_URI = "YOUR MONGODB ATLAS Connection String"
 DB_NAME = "YOUR DB NAME"
