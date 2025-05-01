@@ -58,8 +58,7 @@ What began as flickering lights and icy drafts has now escalated into **full-blo
 - Clone repository
 ```
 git clone https://github.com/vinodkrishnan23/Escape-Games.git
-git checkout phantom
-git pull origin phantom
+
 ```
 - Install all python libraries - strealit,pymongo etc.
 ```
