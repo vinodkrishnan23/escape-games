@@ -71,6 +71,7 @@ python3 -m pip install -r requirement.txt
 ```
 MONGODB_URI = "YOUR MONGODB ATLAS Connection String"
 DB_NAME = "YOUR DB NAME"
+DB_USER = "YOUR DB USERNAME"
 ```
 - Run the application
 ```
