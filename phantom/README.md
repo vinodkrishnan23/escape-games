@@ -62,7 +62,7 @@ git clone https://github.com/vinodkrishnan23/Escape-Games.git
 ```
 - Install all python libraries - strealit,pymongo etc.
 ```
-cd Escape-Games
+cd Escape-Games/phantom
 python3 -m pip install -r requirement.txt
 ```
 - Ask Admin for your mongodb atlas connection string and dbname with pre-loaded data
